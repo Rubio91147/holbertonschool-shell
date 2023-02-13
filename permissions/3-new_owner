@@ -1,2 +1,2 @@
 #!/bin/bash
-groups betty hello
+chown betty hello
