@@ -23,4 +23,5 @@ Output format: One line, one word
 Words should be sorted
 Display lines containing the pattern “root”
 Display the number of lines that contain the pattern “bin” in the file /etc/passwd
- What's next? 
+ What's next?
+Display all the lines in the file /etc/passwd that do not contain the pattern “bin”. 
