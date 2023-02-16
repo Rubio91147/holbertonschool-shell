@@ -1,2 +1,2 @@
 #!/bin/bash
-rev<<<"Esta línea es una prueba"
+echo "elbauldelprogramador" | rev
